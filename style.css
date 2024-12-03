@@ -1,0 +1,19 @@
+ul.circle {
+
+list-style-type: circle ;
+    
+    
+}
+    
+ul.square {
+    
+list-style: square ;
+    
+     
+}
+
+ol.romans_maj{
+
+    list-style-type: upper-roman;
+
+}
